@@ -1,4 +1,4 @@
-package com.javatpoint.server.main.user;
+
 import java.util.Date;
 public class User 
 {
